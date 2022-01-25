@@ -1,0 +1,13 @@
+## Interface: 90200
+
+## Title: ArkInventory - CanIMogIt
+## Author: dodga
+## Version: 1
+
+## DefaultState: Disabled
+## LoadOnDemand: 0
+## RequiredDeps: ArkInventoryRules, CanIMogIt
+
+## LoadManagers: AddonLoader
+
+ai_cimi.lua
