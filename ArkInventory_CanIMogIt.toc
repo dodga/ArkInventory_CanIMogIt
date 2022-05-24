@@ -3,11 +3,14 @@
 ## Title: ArkInventory - CanIMogIt
 ## Author: dodga
 ## Version: 1
+## Notes: Use CanIMogIt in ArkInventory rules
 
-## DefaultState: Disabled
-## LoadOnDemand: 0
+## X-Website: https://github.com/dodga/ArkInventory_CanIMogIt
+## X-WoWI-ID: 26328
+## X-Wago-ID: ZQ6aBBKW
+
+## DefaultState: Enabled
 ## RequiredDeps: ArkInventoryRules, CanIMogIt
-
-## LoadManagers: AddonLoader
+## LoadOnDemand: 0
 
 ai_cimi.lua
