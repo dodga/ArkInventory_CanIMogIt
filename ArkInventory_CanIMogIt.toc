@@ -1,8 +1,8 @@
-## Interface: 90205
+## Interface: 100000
 
 ## Title: ArkInventory - CanIMogIt
 ## Author: dodga
-## Version: 1
+## Version: 2
 ## Notes: Use CanIMogIt in ArkInventory rules
 
 ## X-Website: https://github.com/dodga/ArkInventory_CanIMogIt
