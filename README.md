@@ -20,6 +20,12 @@ Returns `true` if you already know this appearance.
 
 Example: `mogged()`
 
+## altmogged
+
+Returns `true` if you already know this appearance from another source.
+
+Example: `altmogged()`
+
 ## icanmog
 
 Returns `true` if you do not know this appearance, and the current character can learn it.
